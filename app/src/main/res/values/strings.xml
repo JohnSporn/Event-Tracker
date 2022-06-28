@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Event Tracking App</string>
+
+    <string name="newEventPage">Add New Event</string>
+    <string name="addEvent">Event Name</string>
+    <string name="addDate">Enter Date</string>
+    <string name="addInfo">Enter Info</string>
+    <string name="hintEvent">Enter Event Name</string>
+    <string name="hintDate">Enter Date</string>
+    <string name="hintInfo">Enter Info</string>
+    <string name="addButton">Add</string>
+
+    <string name="eventsTitle">Events</string>
+    <string name="eventName">Event Name</string>
+    <string name="eventDate">Event Date</string>
+    <string name="eventInfo">Event Info</string>
+    <string name="removeButton">Remove</string>
+
+    <string name="account">Create Account</string>
+    <string name="register">Create</string>
+</resources>
